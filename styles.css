@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+#buttons{
+	background-color:#a164df;
+	min-height:300px;
+}
+.btn,.stop{
+	background-color:#663399 !important;
+	font-weight:400 !important;
+	color:white !important;
+}
